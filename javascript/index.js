@@ -1,4 +1,4 @@
-import * as vimeo from "./vimeo-api-practice.js";
+import * as vimeo from "./vimeo-api-example.js";
 
 window.onload = () => {
   let playerInformation = new vimeo.PlayerInformation("player", {
